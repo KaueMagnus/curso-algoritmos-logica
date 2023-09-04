@@ -1,0 +1,7 @@
+Linguagem de programação: regras léxicas (ortografia) e sintáticas (gramática) para escrever o programa.
+
+IDE: Software para editar e testar o programa.
+
+Compilador: Software para transformar o código fonto em código objeto.
+
+Maquina virtual: Software que permite que o código seja executado.
