@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retangulo", "..\retangulo\r
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idades", "..\idades\idades.csproj", "{8B30CEBF-184D-4042-9A8F-82B80FE6502B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menor_de_tres", "..\menor_de_tres\menor_de_tres.csproj", "{1C85BD2D-3BA5-4112-85D1-C8D8CC231BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8B30CEBF-184D-4042-9A8F-82B80FE6502B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B30CEBF-184D-4042-9A8F-82B80FE6502B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B30CEBF-184D-4042-9A8F-82B80FE6502B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C85BD2D-3BA5-4112-85D1-C8D8CC231BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C85BD2D-3BA5-4112-85D1-C8D8CC231BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C85BD2D-3BA5-4112-85D1-C8D8CC231BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C85BD2D-3BA5-4112-85D1-C8D8CC231BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
