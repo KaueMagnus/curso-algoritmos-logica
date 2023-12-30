@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/bin/Debug/net7.0/soma_vetores
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/bin/Debug/net7.0/soma_vetores.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/bin/Debug/net7.0/soma_vetores.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/bin/Debug/net7.0/soma_vetores.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/bin/Debug/net7.0/soma_vetores.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/refint/soma_vetores.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/soma_vetores.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_vetores/obj/Debug/net7.0/ref/soma_vetores.dll

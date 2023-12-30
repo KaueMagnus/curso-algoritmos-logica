@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/bin/Debug/net7.0/troco_verificado
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/bin/Debug/net7.0/troco_verificado.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/bin/Debug/net7.0/troco_verificado.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/bin/Debug/net7.0/troco_verificado.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/bin/Debug/net7.0/troco_verificado.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/refint/troco_verificado.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/troco_verificado.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/troco_verificado/obj/Debug/net7.0/ref/troco_verificado.dll

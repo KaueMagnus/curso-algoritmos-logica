@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/bin/Debug/net7.0/soma_impares
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/bin/Debug/net7.0/soma_impares.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/bin/Debug/net7.0/soma_impares.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/bin/Debug/net7.0/soma_impares.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/bin/Debug/net7.0/soma_impares.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/refint/soma_impares.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/soma_impares.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/soma_impares/obj/Debug/net7.0/ref/soma_impares.dll

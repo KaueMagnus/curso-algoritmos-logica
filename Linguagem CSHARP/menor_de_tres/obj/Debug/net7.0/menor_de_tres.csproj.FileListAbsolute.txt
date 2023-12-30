@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/bin/Debug/net7.0/menor_de_tres
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/bin/Debug/net7.0/menor_de_tres.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/bin/Debug/net7.0/menor_de_tres.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/bin/Debug/net7.0/menor_de_tres.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/bin/Debug/net7.0/menor_de_tres.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/refint/menor_de_tres.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/menor_de_tres.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/menor_de_tres/obj/Debug/net7.0/ref/menor_de_tres.dll

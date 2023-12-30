@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/bin/Debug/net7.0/diagonal_negativos
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/bin/Debug/net7.0/diagonal_negativos.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/bin/Debug/net7.0/diagonal_negativos.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/bin/Debug/net7.0/diagonal_negativos.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/bin/Debug/net7.0/diagonal_negativos.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/refint/diagonal_negativos.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/diagonal_negativos.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/diagonal_negativos/obj/Debug/net7.0/ref/diagonal_negativos.dll
