@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/bin/Debug/net7.0/glicose
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/bin/Debug/net7.0/glicose.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/bin/Debug/net7.0/glicose.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/bin/Debug/net7.0/glicose.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/bin/Debug/net7.0/glicose.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/refint/glicose.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/glicose.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/glicose/obj/Debug/net7.0/ref/glicose.dll

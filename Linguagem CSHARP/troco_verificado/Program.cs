@@ -3,6 +3,7 @@
 //Seu programa deve mostrar o valor do troco a ser devolvido ao cliente.
 //Se o dinheiro dado pelo cliente não for suficiente, mostrar uma mensagem informando o valor restante conforme exemplo.
 
+
 using System.Globalization;
 
 internal class Program
@@ -12,7 +13,7 @@ internal class Program
 
         CultureInfo CI = CultureInfo.InvariantCulture;
 
-        double precoProduto, dinheiroRecebido, troco, precoTotal;
+        double precoProduto, dinheiroRecebido, troco, precoTotal,faltaDinheiro;
         int quantidadeProdutos;
 
         Console.Write("Preço unitário do produto: ");
@@ -39,7 +40,8 @@ internal class Program
 
         else
         {
-            Console.Write("Dinheiro insuficiente, faltou);
+            faltaDinheiro = (double)precoTotal - dinheiroRecebido;
+            Console.Write("Dinheiro insuficiente, faltou R$" + faltaDinheiro.ToString("F2", CI));
         }
 
     }
