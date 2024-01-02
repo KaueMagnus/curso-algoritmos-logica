@@ -1,41 +1,54 @@
-﻿<Properties StartupConfiguration="{84F38B2B-9238-4847-A319-ACDD8EE4B7CC}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.quadrante PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.notas PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{561F2798-87EE-4C4E-8EEF-7D52113F5828}|Default">
   <MonoDevelop.Ide.ItemProperties.glicose PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.idades PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.crescente PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.operadora PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.negativos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.numeros__pares PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.retangulo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.matrizesAula PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.idades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bhaskara PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.notas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.dardo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.media__pares FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.diagonal__negativos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.negativos__matriz FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.menor__de__tres PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.vetoresAula PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.estrurasIfElse PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.retangulo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.soma__impares PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.menor__de__tres PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.soma__vetores PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.diagonal__negativos PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.dardo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.senha__fixa PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../troco_verificado/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../media_pares/Program.cs">
     <Files>
-      <File FileName="../bhaskara/Program.cs" />
-      <File FileName="../operadora/Program.cs" />
-      <File FileName="../troco_verificado/Program.cs" Line="47" Column="2" />
+      <File FileName="../bhaskara/Program.cs" Line="1" Column="1" />
+      <File FileName="../operadora/Program.cs" Line="1" Column="1" />
+      <File FileName="../troco_verificado/Program.cs" Line="44" Column="98" />
+      <File FileName="../glicose/Program.cs" />
+      <File FileName="../dardo/Program.cs" />
+      <File FileName="../senha_fixa/Program.cs" />
+      <File FileName="../quadrante/Program.cs" Line="52" Column="66" />
+      <File FileName="../negativos/Program.cs" Line="26" Column="52" />
+      <File FileName="../numeros_pares/Program.cs" Line="43" Column="2" />
+      <File FileName="../media_pares/Program.cs" Line="40" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CursoAlgoritmos-nelioalves">
-            <Node name="bhaskara" expanded="True" />
-            <Node name="troco_verificado" expanded="True" />
+          <Node name="CursoAlgoritmos-nelioalves" expanded="True">
+            <Node name="media_pares">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="numeros_pares" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.troco__verificado PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.bhaskara PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.crescente PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.senha__fixa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.quadrante PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.soma__vetores PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.estrurasIfElse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.soma__impares PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.operadora PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.troco__verificado PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,15 @@
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/bin/Debug/net7.0/negativos_matriz
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/bin/Debug/net7.0/negativos_matriz.deps.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/bin/Debug/net7.0/negativos_matriz.runtimeconfig.json
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/bin/Debug/net7.0/negativos_matriz.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/bin/Debug/net7.0/negativos_matriz.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.csproj.AssemblyReference.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.AssemblyInfoInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.AssemblyInfo.cs
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.csproj.CoreCompileInputs.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/refint/negativos_matriz.dll
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.pdb
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/negativos_matriz.genruntimeconfig.cache
+/Users/kauemagnus/Documents/Curso Lógica Nelio Alves/curso-algoritmos-logica/Linguagem CSHARP/negativos_matriz/obj/Debug/net7.0/ref/negativos_matriz.dll
